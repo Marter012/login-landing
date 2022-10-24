@@ -1,0 +1,58 @@
+.borde {
+    margin: 5px;
+    padding: 10px;
+    position: absolute;
+    border: 1px solid gray;
+    
+}
+.Inicio {
+    color: dimgray;
+    display: flex;
+    justify-content: center;
+}
+.email {
+    text-indent: 15px;
+    border: 1px solid gray;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: none;
+    width: 200px;
+    height: 50px;
+    margin-left: 15; 
+    display: block;
+    justify-content: center;   
+
+}
+.contra{
+    text-indent: 15px;
+    border: 1px solid gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 200px;
+    height: 50px;
+    margin-left: 15;    
+    display: block;    
+}
+.boton{
+    border-radius: 10px;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    margin: 15;
+    color: aliceblue;
+    background-color: darkblue;
+    display: block;
+    text-align: center;   
+}
+.olvida{    
+    display: block;
+    font-size: 10px;
+    width: 90px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 15px;   
+    margin: auto; 
+    
+}
